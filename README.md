@@ -11,7 +11,7 @@ J’aime comprendre comment les choses fonctionnent, décortiquer une logique, e
 blablabla
 
 ## Projets réalisés
-### 🖥️ Nom du projet
-langage utilisé
-breve description
-[Voir le projet](https://github.com/tonUsername/nom-du-repo)
+### 🖥️ Nom du projet - en cours/achevé
+- langage utilisé
+- breve description
+- [Voir le projet](https://github.com/tonUsername/nom-du-repo)
