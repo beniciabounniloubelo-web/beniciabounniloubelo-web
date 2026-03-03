@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bonjour !👋
+BUT2 informatique
 
-<!--
-**beniciabounniloubelo-web/beniciabounniloubelo-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui je suis
 
-Here are some ideas to get you started:
+Je suis étudiante en informatique, en train d’apprendre à structurer ma pensée autant que mon code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer. Ce profil évoluera avec moi.
+
+## Langages maitrisés
+blablabla
+
+## Projets réalisés
+### 🖥️ Nom du projet
+langage utilisé
+breve description
+[Voir le projet](https://github.com/tonUsername/nom-du-repo)
