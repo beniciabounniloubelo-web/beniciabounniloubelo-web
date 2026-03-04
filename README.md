@@ -15,3 +15,6 @@ blablabla
 - langage utilisé
 - breve description
 - [Voir le projet](https://github.com/tonUsername/nom-du-repo)
+
+- projet déploiement d’un environnement poste de travail 
+Inclut partitionnement, installation dual boot Windows 7 / Arch Linux, configuration du réseau, gestion des groupes et services (GRUB, XFCE, CUPS).
