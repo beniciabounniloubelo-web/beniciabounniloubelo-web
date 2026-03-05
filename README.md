@@ -5,7 +5,7 @@ BUT2 informatique
 
 Je suis étudiante en informatique, en train d’apprendre à structurer ma pensée autant que mon code.
 
-J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer. Ce profil évoluera avec moi.
+J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer. Ce profil évoluera donc avec moi.
 
 ## Langages/logiciels maitrisés
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,8 +20,10 @@ XML,
 C89,
 ATEM software control
 
-<!--
+
 ## Projets réalisés
+![En cours](https://img.shields.io/badge/status-en%20cours-orange)
+<!--
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
 - breve description
