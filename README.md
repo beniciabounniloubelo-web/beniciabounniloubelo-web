@@ -1,11 +1,10 @@
-## Bonjour !👋
-BUT2 informatique
+## Bonjour ! 👋
+Je suis Benicia, étudiante en deuxieme annee en BUT Informatique.
 
-## Qui je suis
-
-Je suis étudiante en informatique, en train d’apprendre à structurer ma pensée autant que mon code.
-J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer.
-Ce profil évoluera donc avec moi.
+## A propos de moi
+Je suis en train d’apprendre à structurer ma pensée autant que mon code.  
+J’aime comprendre comment les choses fonctionnent, décortiquer les logiques et améliorer progressivement ma manière de programmer.  
+Ce profil évoluera avec moi au fil de mes projets et expérimentations.
 
 ## Langages/logiciels maitrisés
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +20,7 @@ Ce profil évoluera donc avec moi.
 ![ATEM Software Control](https://img.shields.io/badge/ATEM%20Software%20Control-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
 
 ## Projets réalisés
-🚧 En travaux – ce GitHub est en cours de développement, ous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
+🚧 En travaux – ce GitHub est en cours de développement, vous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
 <!--
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
