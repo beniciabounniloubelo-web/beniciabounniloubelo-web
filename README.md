@@ -22,6 +22,7 @@ J’aime comprendre comment les choses fonctionnent, décortiquer une logique, e
 
 ## Projets réalisés
 ![En cours](https://img.shields.io/badge/status-en%20cours-orange)
+🚧 En travaux – ce GitHub est en cours de développement. Vous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
 <!--
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
