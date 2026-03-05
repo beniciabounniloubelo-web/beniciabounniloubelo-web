@@ -16,10 +16,9 @@ J’aime comprendre comment les choses fonctionnent, décortiquer une logique, e
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-XML,
-C89,
-ATEM software control
-
+![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
+![C89](https://img.shields.io/badge/C89-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ATEM Software Control](https://img.shields.io/badge/ATEM%20Software%20Control-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
 
 ## Projets réalisés
 ![En cours](https://img.shields.io/badge/status-en%20cours-orange)
