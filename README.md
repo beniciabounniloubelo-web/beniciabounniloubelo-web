@@ -16,10 +16,11 @@ J’aime comprendre comment les choses fonctionnent, décortiquer une logique, e
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-XML
-C89
+XML,
+C89,
 ATEM software control
 
+<!--
 ## Projets réalisés
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
@@ -27,4 +28,4 @@ ATEM software control
 - [Voir le projet](https://github.com/tonUsername/nom-du-repo)
 
 - projet déploiement d’un environnement poste de travail 
-Inclut partitionnement, installation dual boot Windows 7 / Arch Linux, configuration du réseau, gestion des groupes et services (GRUB, XFCE, CUPS).
+Inclut partitionnement, installation dual boot Windows 7 / Arch Linux, configuration du réseau, gestion des groupes et services (GRUB, XFCE, CUPS).-->
