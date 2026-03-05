@@ -4,8 +4,8 @@ BUT2 informatique
 ## Qui je suis
 
 Je suis étudiante en informatique, en train d’apprendre à structurer ma pensée autant que mon code.
-
-J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer. Ce profil évoluera donc avec moi.
+J’aime comprendre comment les choses fonctionnent, décortiquer une logique, et améliorer progressivement ma manière de programmer.
+Ce profil évoluera donc avec moi.
 
 ## Langages/logiciels maitrisés
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,8 +21,7 @@ J’aime comprendre comment les choses fonctionnent, décortiquer une logique, e
 ![ATEM Software Control](https://img.shields.io/badge/ATEM%20Software%20Control-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
 
 ## Projets réalisés
-![En cours](https://img.shields.io/badge/status-en%20cours-orange)
-🚧 En travaux – ce GitHub est en cours de développement. Vous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
+🚧 En travaux – ce GitHub est en cours de développement, ous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
 <!--
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
