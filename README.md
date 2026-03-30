@@ -19,9 +19,10 @@ Ce profil évoluera avec moi au fil de mes projets et expérimentations.
 ![C89](https://img.shields.io/badge/C89-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ATEM Software Control](https://img.shields.io/badge/ATEM%20Software%20Control-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
 
+<!--
 ## Projets réalisés
 🚧 En travaux – ce GitHub est en cours de développement, vous y trouverez prochainement mes projets, expérimentations et contributions en informatique !
-<!--
+
 ### 🖥️ Nom du projet - en cours/achevé
 - langage utilisé
 - breve description
