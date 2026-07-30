@@ -18,6 +18,12 @@ Ce profil évoluera avec moi au fil de mes projets et expérimentations.
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 ![C89](https://img.shields.io/badge/C89-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ATEM Software Control](https://img.shields.io/badge/ATEM%20Software%20Control-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!--
 ## Projets réalisés
